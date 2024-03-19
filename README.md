@@ -1,6 +1,6 @@
 ## Business 360 Dashboard :
 
-- **Introduction:** <br/>
+**Introduction:** <br/>
 Welcome to the Business 360 Dashboard repository, a dynamic analytics hub offering a comprehensive view across finance, sales, market, and supply chain domains. Uncover valuable insights for strategic decision-making.<br/>
 
 **Project Objective:** <br/>
